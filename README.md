@@ -19,12 +19,14 @@ I'm an aspiring Java developer with the ambitious goal of becoming a programming
 - Algorithmic thinking
 - Architectural design
 - Writing clean code
-- Empathy*
-🌍  I'm based in Penza*
-✉️  You can contact me at [famenko72@gmail.com](mailto:famenko72@gmail.com)*
-🧠  I'm learning Hibernate*
-🤝  I'm open to collaborating on all that help people*
-⚡  I see my life as always learning something new and sharing my discoveries with others. I love meeting new people and quickly finding a common language with them. Non-conflict, kind, active.
+- Empathy
+--------------
+
+*   🌍  I'm based in Penza
+*   ✉️  You can contact me at [famenko72@gmail.com](mailto:famenko72@gmail.com)
+*   🧠  I'm learning Hibernate
+*   🤝  I'm open to collaborating on all that help people
+*   ⚡  I see my life as always learning something new and sharing my discoveries with others. I love meeting new people and quickly finding a common language with them. Non-conflict, kind, active.
 
 ### Skills
 
